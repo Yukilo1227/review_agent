@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+report_knowledge/
+.DS_Store
+.idea/
+venv/
+env/
